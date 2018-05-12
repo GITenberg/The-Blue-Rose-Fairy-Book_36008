@@ -1,0 +1,32 @@
+_repo: The-Blue-Rose-Fairy-Book_36008
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36008-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baring, Maurice
+    birthdate: 1874
+    deathdate: 1945
+    gutenberg_agent_id: '937'
+    url: http://www.gutenberg.org/2009/agents/937
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Baring
+description: ''
+gutenberg_issued: '2011-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36008'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PR'
+- !lcc 'PZ'
+tableOfContents: The glass mender -- The blue rose -- The story of Vox Angelica and
+  Lieblich Gedacht -- The vagabond -- The minstrel -- The hunchback, the pool, and
+  the magic ring -- The silver mountain -- The ring -- The merchant's daughter --
+  The cunning apprentice -- Orestes and the dragon -- The wise princess.
+title: The Blue Rose Fairy Book
+url: http://www.gutenberg.org/ebooks/36008
